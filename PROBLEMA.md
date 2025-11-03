@@ -127,4 +127,3 @@ Se sua solução permite isso de forma intuitiva, você está no caminho certo.
 ---
 
 **Este é um problema real que afeta milhares de restaurantes. Como você o resolveria?**
-

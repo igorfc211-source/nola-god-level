@@ -25,6 +25,7 @@ class Sale(BaseModel):
     total_amount: float
     created_at: str
     sale_status_desc: str
+    delivery_fee: float
 
 
 
@@ -47,7 +48,7 @@ def list_sales(limit: int = 50):
     conn = get_conn()
     cur = conn.cursor(cursor_factory=RealDictCursor)
     cur.execute("""
-        SELECT id, store_id, channel_id, total_amount, created_at, sale_status_desc
+        SELECT id, store_id, channel_id, total_amount, created_at, delivery_fee, sale_status_desc 
         FROM sales
         ORDER BY created_at DESC
         LIMIT %s

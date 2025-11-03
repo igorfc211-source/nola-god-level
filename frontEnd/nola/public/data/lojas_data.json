@@ -1,0 +1,352 @@
+[
+{
+    "id": 1,
+    "name": "Freitas - Cavalcanti",
+    "city": "Cavalcanti",
+    "state": "CE",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Moura Sales S.A. - Melo das Pedras",
+    "city": "Melo das Pedras",
+    "state": "GO",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Santos - da Paz Grande",
+    "city": "da Paz Grande",
+    "state": "GO",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Cunha Araújo e Filhos - Peixoto",
+    "city": "Peixoto",
+    "state": "PI",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Barros - Nascimento das Pedras",
+    "city": "Nascimento das Pedras",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Nunes Ltda. - Silva",
+    "city": "Silva",
+    "state": "PR",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "Moura - Cavalcanti",
+    "city": "Cavalcanti",
+    "state": "AL",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "name": "Pires Vieira S.A. - Lima",
+    "city": "Lima",
+    "state": "PR",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "name": "Silva - Pereira",
+    "city": "Pereira",
+    "state": "CE",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Pires S/A - Pereira",
+    "city": "Pereira",
+    "state": "AP",
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "name": "Fogaça Teixeira - EI - Lima",
+    "city": "Lima",
+    "state": "RO",
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "name": "Cardoso - Melo das Pedras",
+    "city": "Melo das Pedras",
+    "state": "RO",
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "name": "Alves S.A. - Fogaça do Galho",
+    "city": "Fogaça do Galho",
+    "state": "PR",
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "name": "Jesus Ramos Ltda. - Pereira",
+    "city": "Pereira",
+    "state": "PE",
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "name": "Peixoto Almeida S.A. - Jesus",
+    "city": "Jesus",
+    "state": "GO",
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "name": "Melo - Peixoto",
+    "city": "Peixoto",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "name": "Barbosa - Jesus",
+    "city": "Jesus",
+    "state": "RN",
+    "is_active": false
+  },
+  {
+    "id": 18,
+    "name": "Costa - Nascimento de da Mata",
+    "city": "Nascimento de da Mata",
+    "state": "BA",
+    "is_active": false
+  },
+  {
+    "id": 19,
+    "name": "da Costa S.A. - Nascimento das Pedras",
+    "city": "Nascimento das Pedras",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "name": "Farias - Lima",
+    "city": "Lima",
+    "state": "MA",
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "name": "Mendes - ME - Oliveira da Praia",
+    "city": "Oliveira da Praia",
+    "state": "MG",
+    "is_active": false
+  },
+  {
+    "id": 22,
+    "name": "Cavalcanti Porto - ME - Pereira",
+    "city": "Pereira",
+    "state": "AL",
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "name": "Pinto Moura - ME - Araújo",
+    "city": "Araújo",
+    "state": "CE",
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "name": "Martins - Silva",
+    "city": "Silva",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "name": "Fogaça Lima - ME - Oliveira de da Luz",
+    "city": "Oliveira de da Luz",
+    "state": "PI",
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "name": "da Conceição - Silva",
+    "city": "Silva",
+    "state": "PA",
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "name": "Monteiro - Jesus",
+    "city": "Jesus",
+    "state": "TO",
+    "is_active": false
+  },
+  {
+    "id": 28,
+    "name": "Cunha - ME - Cavalcanti",
+    "city": "Cavalcanti",
+    "state": "MS",
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "name": "Nunes Carvalho e Filhos - Lima",
+    "city": "Lima",
+    "state": "RR",
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "name": "Pinto - Correia de Monteiro",
+    "city": "Correia de Monteiro",
+    "state": "RS",
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "name": "Novaes - Silva",
+    "city": "Silva",
+    "state": "BA",
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "name": "Melo - Oliveira da Praia",
+    "city": "Oliveira da Praia",
+    "state": "SC",
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "name": "Freitas Vieira Ltda. - Pereira",
+    "city": "Pereira",
+    "state": "MG",
+    "is_active": true
+  },
+  {
+    "id": 34,
+    "name": "Gomes Porto - EI - Peixoto",
+    "city": "Peixoto",
+    "state": "RS",
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "name": "Ferreira - EI - Freitas de Carvalho",
+    "city": "Freitas de Carvalho",
+    "state": "PR",
+    "is_active": true
+  },
+  {
+    "id": 36,
+    "name": "Rezende Silva S/A - Nascimento das Pedras",
+    "city": "Nascimento das Pedras",
+    "state": "PI",
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "name": "Nunes - EI - Melo das Pedras",
+    "city": "Melo das Pedras",
+    "state": "MS",
+    "is_active": true
+  },
+  {
+    "id": 38,
+    "name": "Duarte - ME - Fernandes Grande",
+    "city": "Fernandes Grande",
+    "state": "SC",
+    "is_active": true
+  },
+  {
+    "id": 39,
+    "name": "Correia - Cavalcanti",
+    "city": "Cavalcanti",
+    "state": "RR",
+    "is_active": true
+  },
+  {
+    "id": 40,
+    "name": "da Cunha - Lima",
+    "city": "Lima",
+    "state": "RS",
+    "is_active": true
+  },
+  {
+    "id": 41,
+    "name": "Freitas S/A - Cavalcanti",
+    "city": "Cavalcanti",
+    "state": "PE",
+    "is_active": true
+  },
+  {
+    "id": 42,
+    "name": "Ribeiro Ltda. - Araújo",
+    "city": "Araújo",
+    "state": "CE",
+    "is_active": true
+  },
+  {
+    "id": 43,
+    "name": "Castro - Peixoto",
+    "city": "Peixoto",
+    "state": "MA",
+    "is_active": false
+  },
+  {
+    "id": 44,
+    "name": "Moura Ltda. - Caldeira da Prata",
+    "city": "Caldeira da Prata",
+    "state": "RO",
+    "is_active": true
+  },
+  {
+    "id": 45,
+    "name": "Rodrigues Teixeira e Filhos - Silva",
+    "city": "Silva",
+    "state": "PA",
+    "is_active": true
+  },
+  {
+    "id": 46,
+    "name": "da Rosa - EI - da Paz Grande",
+    "city": "da Paz Grande",
+    "state": "MS",
+    "is_active": true
+  },
+  {
+    "id": 47,
+    "name": "da Conceição - Oliveira de da Luz",
+    "city": "Oliveira de da Luz",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 48,
+    "name": "Ferreira Nogueira - ME - Almeida do Galho",
+    "city": "Almeida do Galho",
+    "state": "PE",
+    "is_active": true
+  },
+  {
+    "id": 49,
+    "name": "Oliveira Ltda. - Nascimento das Pedras",
+    "city": "Nascimento das Pedras",
+    "state": "SP",
+    "is_active": true
+  },
+  {
+    "id": 50,
+    "name": "Rodrigues S.A. - da Conceição de Campos",
+    "city": "da Conceição de Campos",
+    "state": "PA",
+    "is_active": true
+  }
+]
