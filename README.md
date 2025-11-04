@@ -78,7 +78,6 @@ Este repositório procura uma **solução funcional** que resolve — na prátic
 ├── frontend/ # Next.js + TypeScript
 │ ├── app/
 │ │ ├── components/ # ActivityChart.tsx, LeaderboardSection.tsx, etc.
-│
 ├── docker-compose.yml
 └── README.md
 
