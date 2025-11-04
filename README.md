@@ -53,9 +53,9 @@ Criar uma plataforma que permita donos de restaurante:
 
 ## 🎯 Status: Problema tratado (o que entreguei)
 
-Este repositório contém uma **solução funcional** que resolve — na prática — a maior parte das necessidades da persona Maria:
+Este repositório procura uma **solução funcional** que resolve — na prática — a maior parte das necessidades da persona Maria:
 
-### Funcionalidades entregues (resolvem as dores)
+### Funcionalidades (resolvem as dores)
 - ✅ **Visão geral de faturamento por período** (mês, semana, dia) — `ActivityChart.tsx`  
   — Maria pode ver faturamento do mês em segundos (critério 1).
 - ✅ **Ranking de produtos e lojas** — via agregação `/api/sales` e componentes de leaderboard  
