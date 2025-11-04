@@ -3,7 +3,10 @@
 > Desenvolvido para o **🏆 God Level Coder Challenge** — solução de analytics para donos de restaurantes.  
 > Backend: `/api` (FastAPI) · Frontend: `/frontend` (Next.js)
 
+Vídeo demonstrativo do projeto:
+👉 https://youtu.be/KYlrPxPsHcw
 ---
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -174,6 +177,4 @@ Inspiração da UI: ![Inspiração da UI](https://raw.githubusercontent.com/igor
 
 Tela do projeto: ![Tela do projeto](https://raw.githubusercontent.com/igorfcg/nola-god-level/main/docs/tel.jpg)
 
-Vídeo demonstrativo:
-👉 https://youtu.be/KYlrPxPsHcw
 
