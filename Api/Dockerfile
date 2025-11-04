@@ -13,7 +13,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copia o código da API
-COPY . .
+COPY . /app
 
 # Expõe a porta 8000
 EXPOSE 8000

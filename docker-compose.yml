@@ -23,7 +23,7 @@ services:
 
   data-generator:
     build:
-      context: ./api
+      context: .
       dockerfile: Dockerfile
     container_name: godlevel-data-gen
     depends_on:
