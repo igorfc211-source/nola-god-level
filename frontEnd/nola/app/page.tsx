@@ -16,7 +16,7 @@ export default function ReportsPage() {
           <div className="mt-8 space-y-6">
             <MetricsGrid />
             <ActivityChart />
-            <TopicsSection />
+            {/* <TopicsSection /> */}
             <LeaderboardSection />
           </div>
         </main>
