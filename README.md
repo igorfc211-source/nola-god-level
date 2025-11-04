@@ -61,14 +61,8 @@ Este repositório procura uma **solução funcional** que resolve — na prátic
 - ✅ **Ranking de produtos e lojas** — via agregação `/api/sales` e componentes de leaderboard  
   — Permite identificar os 10 produtos mais vendidos no delivery (critério 2).
 - ✅ **Comparativo entre duas lojas** (`LeaderboardSection.tsx`) — receita, pedidos e ticket médio lado a lado (critério 3).
-- ✅ **Export simples** — botão para download que permite exportar relatórios (CSV) (critério 4).
 - ✅ **Back-end robusto** — FastAPI (`/api`) que serve `stores` e `sales` com `created_at` em ISO; pronto para Docker.
 - ✅ **Containerização** — Docker Compose para levantar Postgres + FastAPI + (opcional) frontend.
-
-### O que foi prototipado / parcial
-- 🔶 Query builder visual (Metabase-like) — **protótipo** de UI e UX; não é um construtor de queries completo, mas já permite filtros e agrupamentos comuns.
-- 🔶 Anomalias e alertas automáticos — esboço e rotas para cálculo de outliers, mas sem painel de alertas persistente.
-- 🔶 Métricas de margem por produto — suporte no schema, mas cálculo integrado parcialmente (precisa de dados de custo/markup).
 
 ---
 
@@ -77,14 +71,13 @@ Este repositório procura uma **solução funcional** que resolve — na prátic
 📂 nola-god-level/
 ├── api/ # Backend (FastAPI)
 │ ├── main.py # endpoints: /api/sales, /api/stores, /api/sales/{id}
-│ ├── models/
-│ ├── database/
+│ ├── models.py
+│ ├── database.py
 │ └── Dockerfile
 │
 ├── frontend/ # Next.js + TypeScript
 │ ├── app/
 │ │ ├── components/ # ActivityChart.tsx, LeaderboardSection.tsx, etc.
-│ └── Dockerfile
 │
 ├── docker-compose.yml
 └── README.md
@@ -119,7 +112,7 @@ Copy code
 
 ```bash
 # clone
-git clone https://github.com/seuusuario/nola-god-level.git
+git clone https://github.com/igorfcg/nola-god-level.git
 cd nola-god-level
 
 # sobe serviços (Postgres + API)
@@ -163,27 +156,11 @@ Inspiração da UI: ./docs/insp.jpg
 
 Tela do projeto: ./docs/tel.jpg 
 
-Vídeo demonstrativo (5–10 min):
+Vídeo demonstrativo:
 👉 https://youtu.be/KYlrPxPsHcw
 
 ⚠️ Limitações & Próximos Passos
 Limitações atuais (tempo curto):
-
-Query builder visual completo (paradigma Metabase/Looker) — protótipo presente, mas não 100% finalizado.
-
-Cálculo de margem por produto depende de dados de custo que não vieram completos no dataset de exemplo.
-
-Alertas e anomalias automatizadas precisam de persistência e UI dedicada.
-
-Próximos passos recomendados:
-
-Implementar query builder drag&drop (UX) e salvar dashboards do usuário.
-
-Indexação/Materialized Views para acelerar queries com 500k+ linhas (e.g. agregados por dia/canal).
-
-Jobs ETL para pré-agrupamento (Airflow/Cron + materialized views).
-
-Autenticação/Autorização 
 
 💭 Reflexão Final — Transparência sobre o tempo
 Desenvolvi a solução com foco nos requisitos principais do desafio e na integração entre Docker, FastAPI e PostgreSQL.
@@ -194,4 +171,3 @@ Ainda estou aprendendo — cada entrega é um passo à frente. Se você avaliar�
 🧑‍💻 Contato / Autor
 Desenvolvido por: Igor frança
 📧 Email: Igorfc211@gmail.com
-GitHub: https://github.com/seuusuario
