@@ -170,9 +170,9 @@ Desenvolvido por: Igor frança
 
 ```
 📈 Demonstração & Prints
-Inspiração da UI: (https://raw.githubusercontent.com/igorfcg/nola-god-level/main/docs/insp.jpg)
+Inspiração da UI: ![Inspiração da UI](https://raw.githubusercontent.com/igorfcg/nola-god-level/main/docs/insp.jpg)
 
-Tela do projeto: (https://raw.githubusercontent.com/igorfcg/nola-god-level/main/docs/tel.jpg)
+Tela do projeto: ![Tela do projeto](https://raw.githubusercontent.com/igorfcg/nola-god-level/main/docs/tel.jpg)
 
 Vídeo demonstrativo:
 👉 https://youtu.be/KYlrPxPsHcw
