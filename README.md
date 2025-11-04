@@ -158,9 +158,6 @@ Tela do projeto: ./docs/tel.jpg
 Vídeo demonstrativo:
 👉 https://youtu.be/KYlrPxPsHcw
 
-⚠️ Limitações & Próximos Passos
-Limitações atuais (tempo curto):
-
 💭 Reflexão Final — Transparência sobre o tempo
 Desenvolvi a solução com foco nos requisitos principais do desafio e na integração entre Docker, FastAPI e PostgreSQL.
 Nem tudo foi concluído por limitação de tempo — há recursos prototipados que exigem maturação.
@@ -170,3 +167,13 @@ Ainda estou aprendendo — cada entrega é um passo à frente. Se você avaliar�
 🧑‍💻 Contato / Autor
 Desenvolvido por: Igor frança
 📧 Email: Igorfc211@gmail.com
+
+```
+📈 Demonstração & Prints
+Inspiração da UI: ./docs/insp.jpg
+
+Tela do projeto: ./docs/tel.jpg 
+
+Vídeo demonstrativo:
+👉 https://youtu.be/KYlrPxPsHcw
+
