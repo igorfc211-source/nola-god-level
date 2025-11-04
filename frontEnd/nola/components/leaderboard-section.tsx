@@ -49,7 +49,7 @@ export function LeaderboardSection() {
       try {
         const [storesRes, salesRes] = await Promise.all([
           fetch("http://localhost:8000/stores"),
-          fetch("http://localhost:8000/sales"),
+          fetch("http://localhost:8000/sales?limit=300000"),
         ]);
 
         const stores: Loja[] = await storesRes.json();

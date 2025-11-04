@@ -47,15 +47,6 @@ const metrics = [
     action: "Ver detalhes",
     sales: totalDeliveryFee
   },
-  {
-    title: "Usuários Ativos",
-    value: "27",
-    subtitle: "/60",
-    icon: Users,
-    trend: trendData,
-    action: "Ver detalhes",
-    sales: totalDeliveryFee
-  },
 
 ]
 
