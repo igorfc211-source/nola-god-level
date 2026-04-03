@@ -45,7 +45,7 @@ class Store(BaseModel):
 # ---------------- ROTAS ----------------
 @app.get("/")
 def root():
-    return {"message": "🚀 API da Nola Challenge ativa!"}
+    return {"message": "API ativa"}
 
 @app.get("/sales", response_model=list[Sale])
 def list_sales(limit: int = 100):
